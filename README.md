@@ -5,6 +5,10 @@ Many bioinformatics packages run using a command line environment (CLI) as oppos
 
 To get started with creating Conda environments, I suggest downloading [**Miniconda**](https://docs.anaconda.com/miniconda/), rather than Anaconda, as Miniconda is a minimal distribution of Anaconda only including conda, Python, and required packages. Again, depending on your OS your installation command will be slightly different. Please follow the *Installing Miniconda* instructions for your OS in the Anaconda Documentation: https://docs.anaconda.com/miniconda/install/#quick-command-line-install/ .  
 
+Once installed, you will need to exit and restart your terminal. Conda should initialize upon terminal startup and you should be in your base environment. For example:
+
+![Screenshot 2025-01-21 at 11 00 04 AM](https://github.com/user-attachments/assets/39499f4f-aad9-4184-bdbb-95fa2908560d)
+
 
 
 
